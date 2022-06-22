@@ -1,0 +1,15 @@
+The goal of this project is predict fare of airlines tickets.
+
+Data properties and descriptions:
+
+Airline - Name of airline
+Date_of_Journey - Date
+Source - Place of departure
+Destination - Destination
+Route - Route
+Dep_Time - Departure time
+Arrival_Time - Arrival time
+Duration - Duration
+Total_Stops - Number of stops
+Additional_Info - Additional_Info
+Price - Price
