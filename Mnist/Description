@@ -1,0 +1,3 @@
+The data files contain gray-scale images of hand-drawn digits, from zero through nine.
+
+The goal in this competition is to take an image of a handwritten single digit, and determine what that digit is.
