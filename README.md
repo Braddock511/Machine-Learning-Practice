@@ -1,1 +1,1 @@
-Simple data science projects for practice, learning and templates
+Machine Learning projects for practice and learning
